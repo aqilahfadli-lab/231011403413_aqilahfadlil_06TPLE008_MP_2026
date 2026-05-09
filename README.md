@@ -42,4 +42,4 @@ Desain ini mengutamakan keterbacaan (*Readability*) melalui beberapa prinsip:
 *   **Negative Space (Ruang Kosong):** Penggunaan margin dan padding yang luas (20 unit) memberikan "napas" pada setiap elemen sehingga informasi tidak terlihat berhimpitan.
 *   **Kontras Tinggi:** Penggunaan teks gelap di atas latar belakang terang memastikan konten tetap nyaman dibaca dalam berbagai kondisi pencahayaan layar.
 *   ### Preview Aplikasi
-![Tampilan Aplikasi](Screenshot 2026-05-09 163821.png)
+![Tampilan Aplikasi](Aqilah_Fadlil.png)
